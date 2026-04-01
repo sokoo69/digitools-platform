@@ -1,0 +1,104 @@
+[
+  {
+    "id": "p1",
+    "name": "Resume Builder Pro",
+    "description": "Create professional ATS-optimized resumes with 100+ templates and AI-powered suggestions",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ professional templates",
+      "ATS optimization",
+      "Export to PDF/DOCX",
+      "AI-powered content suggestions",
+      "Lifetime updates"
+    ],
+    "icon": "/products/writing_2327400 1.png"
+  },
+  {
+    "id": "p2",
+    "name": "Design Studio Suite",
+    "description": "Complete design toolkit with vector editing, prototyping, and collaboration features",
+    "price": 49.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Vector & raster editing",
+      "Real-time collaboration",
+      "Cloud storage 100GB",
+      "Premium assets library",
+      "Team workspace"
+    ],
+    "icon": "/products/design-tool.png"
+  },
+  {
+    "id": "p3",
+    "name": "Portfolio Website Builder",
+    "description": "Build stunning portfolio websites without coding. Perfect for designers and creatives",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "50+ portfolio templates",
+      "Custom domain support",
+      "Mobile responsive",
+      "SEO optimized",
+      "Analytics dashboard"
+    ],
+    "icon": "/products/portfolio.png"
+  },
+  {
+    "id": "p4",
+    "name": "Social Media Manager",
+    "description": "Schedule posts, analyze performance, and manage all your social accounts in one place",
+    "price": 39.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Multi-platform scheduling",
+      "Performance analytics",
+      "Content calendar",
+      "Hashtag suggestions",
+      "Team collaboration"
+    ],
+    "icon": "/products/social-media.png"
+  },
+  {
+    "id": "p5",
+    "name": "E-commerce Store Kit",
+    "description": "Launch your online store with payment processing, inventory management, and marketing tools",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Secure payment gateway",
+      "Inventory management",
+      "Email marketing tools",
+      "Multi-currency support",
+      "24/7 support"
+    ],
+    "icon": "/products/shopping-cart.png"
+  },
+  {
+    "id": "p6",
+    "name": "Workflow Automation Pro",
+    "description": "Automate repetitive tasks and integrate your favorite apps to boost productivity",
+    "price": 59.99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "1000+ app integrations",
+      "Custom workflows",
+      "Automated triggers",
+      "Advanced scheduling",
+      "Priority support"
+    ],
+    "icon": "/products/operation.png"
+  }
+]
